@@ -1,0 +1,11 @@
+data/midi/*
+data/token-peaceful/*
+checkpoints/*
+data/*
+
+.idea/misc.xml
+.idea/museformer-test.iml
+.idea/vcs.xml
+
+data-bin/*
+.DS_Store
